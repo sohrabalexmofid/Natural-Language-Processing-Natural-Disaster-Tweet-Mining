@@ -1,0 +1,3 @@
+# Natural-Language-Processing-Twitter-Natural-Disaster-Relief
+opnion mining( sentiment analysys) to detect real tweets for occurence of natural disaster
+Twitter has become and important communication channel in times of emergency, The ubiquitousness of smartphones enables people announce an emergency they are observing in real-time. Because of this, more agencies are interested in programmatically monitoring Twitter ( I.e. disaster relief organizations and news agencies). However, identifying such tweets has always been a difficult task because oft he ambiguity in the linguistic structure of the tweets and hence its always it is not always clear wether an individual’s word are actually announcing the disaster.
