@@ -12,14 +12,6 @@ pip install beautifulsoup4==4.9.1
 pip install textblob==0.15.3
 ```
 
-Install
-
-`pip install git+https://github.com/laxmimerit/preprocess_kgptalkie.git --upgrade --force-reinstall`
-
-Uninstall
-
-`pip uninstall preprocess_kgptalkie`
-
 #### How to use it for preprocessing
 You have to have installed spacy and python3 to make it work.
 
